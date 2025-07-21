@@ -4,5 +4,5 @@ CONVERTING FIGMA DESIGN TO HTML AND CSS
 HTML 
 CSS
 ## PROJECT IMAGE
-![Screenshot 1](image/Screenshot 2025-07-21 041213.png)
+![Screenshot 1](image/Screenshot%202025-07-21%20041213.png)
  
